@@ -1,5 +1,6 @@
 {
   "name": "format",
+  "homepage": "https://inkochetkov.github.io/format",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
